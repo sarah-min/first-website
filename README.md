@@ -1,5 +1,5 @@
 # first-website
-[https://sarah-min.github.io/first-website/index](link to website)
+https://sarah-min.github.io/first-website/index
 
 ### very important and serious information about:
 - crosswords
